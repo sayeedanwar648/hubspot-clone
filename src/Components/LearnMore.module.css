@@ -1,0 +1,18 @@
+
+.container{
+    margin-top: 20px;
+    height: 111px;
+    width: 100%;
+    background-color: #B7ECEC;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.para{
+    height:63px ;
+    width:870px ;
+    color:#2E475D ;
+    font-size:18px ;
+}
